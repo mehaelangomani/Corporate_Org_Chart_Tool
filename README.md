@@ -122,31 +122,38 @@ gcc src/main.c -o orgchart
 ---
 
 ## 📌 Sample Output
+1. Add Employee
+<img width="389" height="339" alt="Screenshot 2026-04-30 103808" src="https://github.com/user-attachments/assets/3c5b47c7-c0a4-4b0b-aae8-36f5b4dac179" />
 
-```
---- Org Chart Menu ---
-Choice: 1
+<img width="400" height="413" alt="Screenshot 2026-04-30 103301" src="https://github.com/user-attachments/assets/1143a669-547e-40dd-9515-1799b2fb34b3" />
 
-Enter ID: 101
-Enter Name: Alice Johnson
-Enter Position: CEO
-Added as root (CEO).
+<img width="443" height="411" alt="Screenshot 2026-04-30 103314" src="https://github.com/user-attachments/assets/92cc42de-235c-468f-a306-eabd534725f8" />
 
-Choice: 5
-[101] Alice Johnson - CEO
-  [102] Bob Smith - CTO
-    [104] David Lee - Dev Lead
-  [103] Carol Ray - CFO
+5. Display
+<img width="406" height="302" alt="Screenshot 2026-04-30 103451" src="https://github.com/user-attachments/assets/778a843a-e21c-4b6f-87c3-721ac3f48fbe" />
 
-Choice: 4
-Enter ID to search: 103
-Found: [103] Carol Ray - CFO
+4. Search Employee
+<img width="362" height="278" alt="Screenshot 2026-04-30 103510" src="https://github.com/user-attachments/assets/b9596b6d-0b66-4f83-a8fa-a1f2780b6f04" />
 
-Choice: 6
-Goodbye!
-```
+<img width="419" height="284" alt="Screenshot 2026-04-30 103500" src="https://github.com/user-attachments/assets/f12fc0b3-0381-4891-b1f1-cc9d64f224fd" />
 
----
+<img width="326" height="281" alt="Screenshot 2026-04-30 104706" src="https://github.com/user-attachments/assets/1b939f0a-10a7-4a6c-bdfa-ee5c4cccfd37" />
+
+3. Update Employee
+<img width="413" height="330" alt="Screenshot 2026-04-30 103444" src="https://github.com/user-attachments/assets/8f9f0273-1b57-45c3-8056-1fb2716fc8d5" />
+
+<img width="406" height="302" alt="Screenshot 2026-04-30 103451" src="https://github.com/user-attachments/assets/5ff92d2c-c93c-43e5-bd28-52a50e7e495b" />
+
+2. Delete Employee
+<img width="371" height="273" alt="Screenshot 2026-04-30 103521" src="https://github.com/user-attachments/assets/580c9912-bc3e-4af6-afea-652f0dc165ed" />
+
+<img width="372" height="279" alt="Screenshot 2026-04-30 103529" src="https://github.com/user-attachments/assets/bacd8390-c68c-4459-93ad-1cc54c526196" />
+
+<img width="400" height="281" alt="Screenshot 2026-04-30 103536" src="https://github.com/user-attachments/assets/eaae72fa-8a3e-412c-addb-24fba1fd38c0" />
+
+6.Exit
+<img width="498" height="236" alt="Screenshot 2026-04-30 103554" src="https://github.com/user-attachments/assets/e3d7de6d-89c0-40c9-95e7-38349e7a3d21" />
+
 
 ## 📂 Project Structure
 
