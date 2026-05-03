@@ -65,7 +65,7 @@ struct Employee {
 
 ### 🔹 Insert
 
-* If tree is empty → new node becomes root
+* If tree is empty → new node becomes root.
 * Otherwise → attach under a parent (left/right)
 
 ### 🔹 Search
