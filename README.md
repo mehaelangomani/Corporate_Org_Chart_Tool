@@ -177,9 +177,7 @@ project-name/
 
 ## 🎥 Demo Video
 
-🔗 *Google Drive Link (to be added)*
-
-> ⚠️ Note: Video is kept private as per submission guidelines.
+https://drive.google.com/file/d/1SRWdLQ02nQBPOQeghEYfvbAbGqgQfiPp/view?usp=drive_web
 
 ---
 
